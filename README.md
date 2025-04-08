@@ -24,7 +24,3 @@
 3. View Result
 4. Apply for Leave
 5. Send Feedback to HOD
-
-
-*
-
